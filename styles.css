@@ -1,0 +1,133 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.premiere{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    justify-items: center;
+    line-height: 30px;
+}
+
+.left-content{    
+padding: 30 5px;
+}
+    
+ul{
+    display: flex;
+    list-style-type: none;
+    text-transform: uppercase;
+    
+}
+li{
+    margin: 0 10px;
+}
+button{
+    padding: 15 20px;
+    background-color: white;
+    margin-right: 30px;
+}
+.deuxieme{
+   
+   text-align: center;
+      background-image: url(IMG2.jpeg);
+   height: 100vh;
+background-repeat: no-repeat;
+background-size: cover;
+   
+}
+.center-content{
+    align-items: center;
+    justify-content: space-around;
+}
+.head{
+    padding: 250 0 10 0;  
+}
+h3{
+    font-size: 45px;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 12px;
+}
+.ptag{
+    color: white;
+    
+}
+#paragraph{
+    letter-spacing: 1px;
+}
+#sign-in{
+    margin-top: 40px;
+    padding: 20 50px;
+    text-transform: uppercase;
+    color: white;
+    background-color: transparent;
+    border-color: white;
+    border-style: solid;
+}
+button a{
+    color: white;
+    text-decoration: none;
+}
+.footer{
+    height: 125px;
+        
+}
+.body2{
+    background-color: blueviolet;
+}
+.main2{
+    text-align: center;
+    margin: 100 500px;
+    padding: 50 0px;
+    background-color:snow;
+}
+
+h4{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 30px;
+}
+
+#password_input{
+    width: 275px;
+    height: 37px;
+    background-color: gainsboro;
+    border: none;
+    margin: 15px;
+}
+#email_input{
+    width: 275px;
+    height: 37px;
+    background-color: gainsboro;
+    border: none;
+    margin-top: 20px;
+}
+
+#try{
+    margin-right: 135;
+    line-height: 20px;
+}
+#signin{
+    margin-left: 5px;
+}
+#sign_in{
+    width: 275px;
+    height: 37px;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    margin: 15px;
+    text-transform: uppercase;
+    margin-top: 25px;
+    padding: 10px;
+}
+#home_page{
+    margin-top: 10px;
+    }
+    p a{
+        text-decoration: none;
+    }
+
